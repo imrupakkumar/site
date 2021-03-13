@@ -1,2 +1,2 @@
-Rupak Kumar
-Mechanical Engineering
+Rupak Kumar....
+Currently there is no more content on the website. It will be updated very soon. 
