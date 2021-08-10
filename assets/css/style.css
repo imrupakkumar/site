@@ -672,8 +672,6 @@ canvas.particles-js-canvas-el {
 .timeline-items{
     padding: 30px;
     margin-top: 30px;
-    margin-left: px;
-    margin-right: px;
 }
 .timeline-item{
     position: relative;
@@ -714,8 +712,6 @@ canvas.particles-js-canvas-el {
 .skill-box {
     padding:60px 30px 30px;
     margin-top: 30px;
-    margin-left: 15px;
-    margin-right: 15px;
 }
 .skill-box .skillbar {
     position: relative;
@@ -768,8 +764,6 @@ canvas.particles-js-canvas-el {
 .language-bar {
     padding:35px 30px;
     margin-top: 30px;
-    margin-left: 15px;
-    margin-right: 15px;
 }
 .language-skill:not(:last-child){
     margin-bottom: 15px;
