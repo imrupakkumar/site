@@ -516,7 +516,7 @@ header .navbar-brand b {
     max-width: 580px;
 }
 .hero-image img{
-    width: 80%;
+    width: 100%;
 }
 canvas.particles-js-canvas-el {
     position: absolute;
