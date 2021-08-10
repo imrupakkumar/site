@@ -712,6 +712,8 @@ canvas.particles-js-canvas-el {
 .skill-box {
     padding:60px 30px 30px;
     margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 .skill-box .skillbar {
     position: relative;
